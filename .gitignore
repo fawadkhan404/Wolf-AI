@@ -1,0 +1,19 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+
+# Testing
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+
+# Environment variables
+.env

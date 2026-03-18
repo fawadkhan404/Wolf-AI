@@ -1,0 +1,6 @@
+# Base dependencies
+numpy
+pandas
+requests
+flask
+pytest
